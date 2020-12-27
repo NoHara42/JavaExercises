@@ -1,2 +1,2 @@
 # ShowCase
-A place for finished projects. :~)
+A place for finished Java exercises for university.
